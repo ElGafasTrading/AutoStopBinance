@@ -10,6 +10,7 @@ El Script fue desarrollado para proteger las operaciones en futuros de Binance, 
 API_KEY = ''
 API_SECRET = ''
 ```
+- Antes de ejecutar el Script deberas instalar la libreria de Python de Binance `pip install python-binance`
 - Una vez guardado el archivo debes ejecutarlo desde una terminal de windows o de tu sistema operativo que uses con el siguiente comando.
 `python script.py`
 
